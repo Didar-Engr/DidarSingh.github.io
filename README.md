@@ -66,7 +66,7 @@ Hi there! I'm **Priya Mehta**, a passionate Data Scientist with a strong foundat
 
 ## 📬 Let's Connect!
 
-- 📧 Email: priyamehta.ds@gmail.com  
+- 📧 Email: priyamehta.ds@gmail.com 
 - 💼 [LinkedIn](https://linkedin.com/in/priyamehta-ds)  
 - 📂 [Portfolio Website](https://priyamehta.dev)  
 - 🐙 [GitHub](https://github.com/priyamehta)
