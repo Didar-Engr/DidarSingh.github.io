@@ -1,17 +1,16 @@
 # DidarSingh.github.io
-# 👩‍💻 Candidate Name - Data Science Portfolio
+# 👩‍💻 Didar Singh -QA TESTER
 
-Hi there! I'm **Priya Mehta**, a passionate Data Scientist with a strong foundation in statistics, machine learning, and data storytelling. I love turning raw data into actionable insights and building models that solve real-world problems.
+Hi there! I'm **Didar Singh**, Accomplished Quality Assurance Professional with 6+ years of experience in manual testing and 1.5+ years in automation testing across web, mobile, and gaming (casino) environments. Proven expertise leading QA teams, optimizing the Software Testing Life Cycle (STLC), and managing defects within Agile (Scrum) frameworks. Hands-on experience developing and executing automation frameworks utilizing Selenium, Cypress, and Postman to accelerate delivery timelines and ensure regulatory compliance.
 
 ---
 
 ## 🧠 Skills & Technologies
-
-- **Languages**: Python, SQL, R
-- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, XGBoost, Matplotlib, Seaborn
+  **Testing Methodologies**:SDLC, STLC, Agile/Scrum, Bug Lifecycle Management, Requirements Traceability Matrix (RTM).
+- **Languages**: Java, C, C++, HTML, SQL.
 - **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: Jupyter Notebook, Tableau, Power BI, Git, Docker, AWS (S3, EC2)
-- **Concepts**: Regression, Classification, NLP, Time Series Forecasting, A/B Testing, Clustering
+- **Tools**: : Selenium WebDriver, Cypress, Postman, JIRA, Bugzilla, JMeter, Selenium IDE.
+- **Testing Types**: Functional, Regression, Integration, System, Exploratory, API, and Performance Testing.
 
 --- 
 
