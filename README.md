@@ -18,9 +18,9 @@ Hi there! I'm **Didar Singh**, Accomplished Quality Assurance Professional with 
 
 ## 🏅 Certifications
 
-- IBM Data Science Professional Certificate (Coursera)
-- Google Advanced Data Analytics Certificate
-- Tableau Data Visualization Specialist
+- Post-Graduate Certificate: Quality Assurance (Software Testing), NBCC, Moncton, Canada 
+- Master of Technology (M.Tech): Computer Science & Engineering, KUK Haryana, India 
+- Bachelor of Technology (B.Tech): Computer Science & Engineering, Punjab, India 
 
 ---
 
