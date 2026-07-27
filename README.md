@@ -13,7 +13,7 @@ Hi there! I'm **Priya Mehta**, a passionate Data Scientist with a strong foundat
 - **Tools**: Jupyter Notebook, Tableau, Power BI, Git, Docker, AWS (S3, EC2)
 - **Concepts**: Regression, Classification, NLP, Time Series Forecasting, A/B Testing, Clustering
 
----
+--- 
 
 ## 📁 Projects
 
